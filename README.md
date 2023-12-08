@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Professional Developer.
 -----------------------
 
-I've been programming for over decade. I started with web designed using HTML, CSS, JS and worked my way up to Java, C++, C# in the last 5 years. Currently I'm most proficient with Java.
+I've been programming for over a decade. I started with web designed using HTML, CSS, JS and worked my way up to Java, C++, C# in the last 5 years. Currently I'm most proficient with Java.
 
 * 🌍  I'm based in Nevada
 * ✉️  You can contact me at [leecook808@gmail.com](mailto:leecook808@gmail.com)
